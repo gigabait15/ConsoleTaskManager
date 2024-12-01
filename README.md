@@ -24,7 +24,7 @@ Task Manager — это консольное приложение для упр�
 
 1. **Клонируйте репозиторий:**
 ```bash
-git clone <repository_url>
+git clone https://github.com/gigabait15/ConsoleTaskManager.git
 ```
 
 2. **Убедитесь, что у вас установлен Python 3.6+**
